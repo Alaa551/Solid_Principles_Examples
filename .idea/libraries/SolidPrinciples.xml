@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SolidPrinciples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SolidPrinciples.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
